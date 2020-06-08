@@ -1,0 +1,14 @@
+name: boardgames
+recipe: lamp
+config:
+  webroot: web
+  php: '7.4'
+  database: mariadb:10.3
+services:
+  database:
+    type: mariadb:10.3
+    portforward: 3310
+    creds:
+      user: homestead
+      password: secret
+      database: boardgames
