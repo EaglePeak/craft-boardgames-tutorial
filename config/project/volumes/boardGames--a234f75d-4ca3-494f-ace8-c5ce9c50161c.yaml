@@ -1,0 +1,40 @@
+fieldLayouts:
+  80535224-85f1-417d-b0e7-776ca1fd6eb2:
+    tabs:
+      -
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            autofocus: false
+            class: null
+            disabled: false
+            id: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            required: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\TitleField
+            warning: null
+            width: 100
+        name: Content
+        sortOrder: 1
+handle: boardGames
+hasUrls: true
+name: ' Board Games'
+settings:
+  path: '@webroot/uploads/images/boardgames'
+sortOrder: 1
+type: craft\volumes\Local
+url: '@web/uploads/images/boardgames'

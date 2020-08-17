@@ -1,0 +1,42 @@
+fieldLayouts:
+  236fe68e-a107-444a-95b9-3de8889cc795:
+    tabs:
+      -
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            autofocus: false
+            class: null
+            disabled: false
+            id: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            required: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\TitleField
+            warning: null
+            width: 100
+        name: Content
+        sortOrder: 1
+handle: boardGames
+name: 'Board Games'
+siteSettings:
+  42d1e759-fe23-416d-9f86-31f740dcaf5e:
+    hasUrls: true
+    template: null
+    uriFormat: 'category/{slug}'
+structure:
+  maxLevels: null
+  uid: 2ee40857-3fd4-4a10-bd6d-869ed7d1e940

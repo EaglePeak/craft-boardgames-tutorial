@@ -1,0 +1,30 @@
+contentColumnType: string
+fieldGroup: 740c9134-cf27-436b-bb01-f1c640819c02
+handle: boardGameImage
+instructions: ''
+name: 'Board Game Image'
+searchable: false
+settings:
+  allowSelfRelations: false
+  allowedKinds:
+    - image
+  defaultUploadLocationSource: 'volume:a234f75d-4ca3-494f-ace8-c5ce9c50161c'
+  defaultUploadLocationSubpath: ''
+  limit: '1'
+  localizeRelations: false
+  restrictFiles: '1'
+  selectionLabel: 'Add a board game image'
+  showSiteMenu: true
+  showUnpermittedFiles: false
+  showUnpermittedVolumes: false
+  singleUploadLocationSource: 'volume:a234f75d-4ca3-494f-ace8-c5ce9c50161c'
+  singleUploadLocationSubpath: ''
+  source: null
+  sources: '*'
+  targetSiteId: null
+  useSingleFolder: true
+  validateRelatedElements: false
+  viewMode: large
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Assets

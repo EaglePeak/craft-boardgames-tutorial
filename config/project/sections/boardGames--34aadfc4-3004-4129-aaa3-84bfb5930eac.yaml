@@ -1,0 +1,11 @@
+enableVersioning: true
+handle: boardGames
+name: 'Board Games'
+propagationMethod: all
+siteSettings:
+  42d1e759-fe23-416d-9f86-31f740dcaf5e:
+    enabledByDefault: true
+    hasUrls: true
+    template: null
+    uriFormat: 'boardgames/{slug}'
+type: channel
