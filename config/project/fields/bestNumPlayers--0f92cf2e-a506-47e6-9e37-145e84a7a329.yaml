@@ -1,0 +1,17 @@
+contentColumnType: smallint(2)
+fieldGroup: 740c9134-cf27-436b-bb01-f1c640819c02
+handle: bestNumPlayers
+instructions: ''
+name: 'Best number of players'
+searchable: false
+settings:
+  decimals: 0
+  defaultValue: '2'
+  max: '10'
+  min: '2'
+  prefix: ''
+  size: null
+  suffix: ''
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\Number

@@ -1,0 +1,17 @@
+contentColumnType: smallint(1)
+fieldGroup: 740c9134-cf27-436b-bb01-f1c640819c02
+handle: minNumPlayers
+instructions: ''
+name: 'Minimum number of players'
+searchable: false
+settings:
+  decimals: 0
+  defaultValue: '1'
+  max: '2'
+  min: '1'
+  prefix: ''
+  size: null
+  suffix: ''
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\Number

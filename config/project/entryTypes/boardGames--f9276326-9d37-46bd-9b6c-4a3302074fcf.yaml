@@ -28,6 +28,45 @@ fieldLayouts:
             type: craft\fieldlayoutelements\EntryTitleField
             warning: null
             width: 100
+          -
+            fieldUid: 9e13b4a1-6657-410b-b0bf-2f1c79aed349
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 100
+          -
+            heading: 'Number of Players'
+            type: craft\fieldlayoutelements\Heading
+          -
+            fieldUid: ea5b6112-8006-41df-a493-90b2ddf9bb35
+            instructions: ''
+            label: Minimum
+            required: '1'
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 25
+          -
+            fieldUid: 9fca3e04-34c4-4237-868a-4bcd6af77ab0
+            instructions: ''
+            label: Maximum
+            required: '1'
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 25
+          -
+            fieldUid: 0f92cf2e-a506-47e6-9e37-145e84a7a329
+            instructions: ''
+            label: Best
+            required: '1'
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 25
         name: Content
         sortOrder: 1
 handle: boardGames

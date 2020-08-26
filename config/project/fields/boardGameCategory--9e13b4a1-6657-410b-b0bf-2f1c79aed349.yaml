@@ -1,0 +1,23 @@
+contentColumnType: string
+fieldGroup: 740c9134-cf27-436b-bb01-f1c640819c02
+handle: boardGameCategory
+instructions: ''
+name: 'Board Game Category'
+searchable: false
+settings:
+  allowLimit: false
+  allowMultipleSources: false
+  allowSelfRelations: false
+  branchLimit: '1'
+  limit: null
+  localizeRelations: false
+  selectionLabel: ''
+  showSiteMenu: true
+  source: 'group:58881c81-9604-4b8c-bd80-8ebabf066105'
+  sources: '*'
+  targetSiteId: null
+  validateRelatedElements: false
+  viewMode: null
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\Categories
