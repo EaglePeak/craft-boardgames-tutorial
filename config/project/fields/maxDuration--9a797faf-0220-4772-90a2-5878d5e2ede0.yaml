@@ -1,0 +1,17 @@
+contentColumnType: smallint(3)
+fieldGroup: 740c9134-cf27-436b-bb01-f1c640819c02
+handle: maxDuration
+instructions: 'in minutes'
+name: 'Maximum Duration'
+searchable: false
+settings:
+  decimals: 0
+  defaultValue: '60'
+  max: '600'
+  min: '30'
+  prefix: ''
+  size: null
+  suffix: ''
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\Number

@@ -67,6 +67,27 @@ fieldLayouts:
             type: craft\fieldlayoutelements\CustomField
             warning: null
             width: 25
+          -
+            heading: Duration
+            type: craft\fieldlayoutelements\Heading
+          -
+            fieldUid: 90bb7b2a-a4c5-42c7-9cc0-530e7ace785a
+            instructions: ''
+            label: Minimum
+            required: '1'
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 25
+          -
+            fieldUid: 9a797faf-0220-4772-90a2-5878d5e2ede0
+            instructions: ''
+            label: Maximum
+            required: '1'
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            warning: null
+            width: 25
         name: Content
         sortOrder: 1
 handle: boardGames

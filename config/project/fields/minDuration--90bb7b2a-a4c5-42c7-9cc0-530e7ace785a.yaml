@@ -1,0 +1,17 @@
+contentColumnType: smallint(3)
+fieldGroup: 740c9134-cf27-436b-bb01-f1c640819c02
+handle: minDuration
+instructions: 'in minutes'
+name: 'Minimum Duration'
+searchable: false
+settings:
+  decimals: 0
+  defaultValue: '30'
+  max: '180'
+  min: '5'
+  prefix: ''
+  size: null
+  suffix: ''
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\Number
