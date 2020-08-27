@@ -1,4 +1,4 @@
-dateModified: 1598459482
+dateModified: 1598541700
 email:
   fromEmail: hello@eaglepeakweb.com
   fromName: 'Board Games'
@@ -11,7 +11,7 @@ system:
   edition: solo
   live: true
   name: 'Board Games'
-  schemaVersion: 3.5.12
+  schemaVersion: 3.5.13
   timeZone: America/Los_Angeles
 users:
   allowPublicRegistration: false
