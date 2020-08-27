@@ -1,0 +1,45 @@
+contentColumnType: string
+fieldGroup: 740c9134-cf27-436b-bb01-f1c640819c02
+handle: difficulty
+instructions: ''
+name: Difficulty
+searchable: false
+settings:
+  optgroups: true
+  options:
+    -
+      __assoc__:
+        -
+          - label
+          - Easy
+        -
+          - value
+          - easy
+        -
+          - default
+          - '1'
+    -
+      __assoc__:
+        -
+          - label
+          - Medium
+        -
+          - value
+          - medium
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - Hard
+        -
+          - value
+          - hard
+        -
+          - default
+          - ''
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\Dropdown
