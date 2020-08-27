@@ -1,0 +1,12 @@
+contentColumnType: string(255)
+fieldGroup: 740c9134-cf27-436b-bb01-f1c640819c02
+handle: playOnline
+instructions: 'Enter URL where game is available to play online.'
+name: 'Play Online'
+searchable: false
+settings:
+  maxLength: '255'
+  placeholder: ''
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\Url
