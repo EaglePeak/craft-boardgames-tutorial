@@ -1,4 +1,4 @@
-dateModified: 1598559439
+dateModified: 1602080664
 email:
   fromEmail: hello@eaglepeakweb.com
   fromName: 'Board Games'
@@ -7,6 +7,11 @@ graphql:
   publicToken:
     enabled: false
     expiryDate: null
+plugins:
+  feed-me:
+    edition: standard
+    enabled: true
+    schemaVersion: 2.1.2
 system:
   edition: solo
   live: true
