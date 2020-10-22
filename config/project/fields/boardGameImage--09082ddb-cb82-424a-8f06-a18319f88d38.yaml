@@ -12,6 +12,7 @@ settings:
   defaultUploadLocationSubpath: ''
   limit: '1'
   localizeRelations: false
+  previewMode: thumbs
   restrictFiles: '1'
   selectionLabel: 'Add a board game image'
   showSiteMenu: true
