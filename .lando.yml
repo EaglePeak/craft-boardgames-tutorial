@@ -12,3 +12,15 @@ services:
       user: homestead
       password: secret
       database: boardgames
+  node:
+    type: node
+    build:
+      - npm install tailwindcss
+      - npm install laravel-mix
+tooling:
+  npm:
+    service: node
+  npx:
+    service: node  
+  node:
+    service: node
