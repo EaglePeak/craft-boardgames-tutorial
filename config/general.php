@@ -29,6 +29,10 @@ return [
         'aliases' => [
             '@web' => getenv('DEFAULT_SITE_URL'),
         ],
+        'defaultSearchTermOptions' => array(
+          'subLeft' => true,
+          'subRight' => true,
+        ),
     ],
 
     // Dev environment settings
